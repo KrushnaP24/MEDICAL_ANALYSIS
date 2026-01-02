@@ -132,7 +132,6 @@ Adjust schedules on Monday and Wednesday and promote Sunday appointments to bala
 ---
 
 ## 👤 Author
-**Krushna Pawar**  
-BSc Computer Science  
-Aspiring Data Analyst
+**Krushna Pawar**
+
 
