@@ -94,17 +94,40 @@ Power BI Dashboard & Insights
 ---
 
 ## 💡 Key Insights
-- Certain departments show consistently higher no-show rates
-- Longer booking gaps increase no-show probability
-- Specific age groups are more prone to missing appointments
-- No-shows result in significant revenue loss for hospitals
+1️⃣ Many Appointments Are Missed
+
+A large number of patients do not come for their scheduled appointments. This wastes doctor time and reduces hospital revenue.
+
+2️⃣ Some Departments Have More Missed Appointments
+
+Orthopedics, Cardiology, and Pediatrics have the highest missed appointments. These departments need more reminders and better scheduling.
+
+3️⃣ Weekdays Have More No-Shows Than Weekends
+
+More patients miss appointments on Monday and Wednesday. Sunday appointments have fewer no-shows because patients are free from work.
+
+4️⃣ Working People Miss More Appointments
+
+Patients between 25–55 years miss more appointments due to job and time pressure. Older patients attend appointments more regularly.
+
+5️⃣ Long Waiting Time Increases No-Shows
+
+When appointments are booked many days in advance, patients are more likely to forget or cancel. Shorter booking gaps reduce no-shows.
 
 ---
 
 ## 🚀 Future Improvements
-- Predictive modeling for no-show risk
-- Automated appointment reminder system
-- Department-level overbooking strategy
+1️⃣ Send Appointment Reminders
+
+Send SMS / WhatsApp reminders 1 day and 2 hours before appointments so patients don’t forget.
+
+2️⃣ Reduce Long Waiting Time
+
+Avoid booking appointments too far in advance and re-confirm old bookings to reduce missed visits.
+
+3️⃣ Improve Scheduling on High No-Show Days
+
+Adjust schedules on Monday and Wednesday and promote Sunday appointments to balance patient flow.
 
 ---
 
@@ -112,3 +135,4 @@ Power BI Dashboard & Insights
 **Krushna Pawar**  
 BSc Computer Science  
 Aspiring Data Analyst
+
